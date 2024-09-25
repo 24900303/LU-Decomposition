@@ -92,7 +92,10 @@ print(x)
 ```
 
 ## Output:
-![lu decomposition]()
+![image](https://github.com/user-attachments/assets/34edb98b-c118-4229-b43e-c302e81d5b4b)
+
+
+![image](https://github.com/user-attachments/assets/e2bff7c6-76f7-4295-bf20-23e7cb5dad80)
 
 
 ## Result:
