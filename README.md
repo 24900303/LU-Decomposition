@@ -1,5 +1,5 @@
-# EXP.No:05
 # DATE:
+# EXP.No:05
 # LU Decomposition 
 
 ## AIM:
@@ -92,10 +92,11 @@ print(x)
 ```
 
 ## Output:
-![image](https://github.com/user-attachments/assets/34edb98b-c118-4229-b43e-c302e81d5b4b)
+![image](https://github.com/user-attachments/assets/c48125a0-ed08-42d7-a454-50fbb927dfcb)
 
 
-![image](https://github.com/user-attachments/assets/e2bff7c6-76f7-4295-bf20-23e7cb5dad80)
+![image](https://github.com/user-attachments/assets/8e9cb1bd-f9c6-4adc-9211-8fbbbaea03d4)
+
 
 
 ## Result:
